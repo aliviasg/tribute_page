@@ -82,8 +82,8 @@ nav a:hover {
 
 #tribute-info h3 {
     font-size: 25px;
-    margin-bottom: 5px;
-    padding-top: 8px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     text-align: center;
 }
 
@@ -146,4 +146,15 @@ footer {
     text-align: center;
     color: rgba(255, 255, 255, 0.753);
     background-color: rgba(153, 97, 33, 0.842);
+}
+
+#credits img {
+    height: 23px;
+    margin-left: 10px;
+}
+
+#credits .icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
 }
